@@ -4,4 +4,4 @@ description: test
 ---
 *helloworld!*
 
-![test](/uploads/images.jpg "no")
+![test](public/uploads/images.jpg "no")
